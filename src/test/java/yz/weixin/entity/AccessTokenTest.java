@@ -2,10 +2,6 @@ package yz.weixin.entity;
 
 import org.junit.Test;
 
-import java.util.Date;
-
-import static org.junit.Assert.*;
-
 /**
  * Created by Okita.<br/>
  * User: yz<br/>
